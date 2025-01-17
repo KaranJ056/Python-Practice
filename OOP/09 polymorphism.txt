@@ -1,0 +1,8 @@
+Polymorphism => refers to ability of an individual to take more than one form
+
+example: we behaves differently in different situation
+
+main concepts in Polymorphism:
+Duck Typing
+Operator OverLoading
+Method OverLoading and OverRiding
