@@ -1,0 +1,7 @@
+Python – Ways to initialize list with alphabets
+Last Updated : 17 Dec, 2024
+While working with Python lists, sometimes we wish to initialize the list with the English alphabet a-z or A-Z. 
+This article discusses various methods to achieve this using Python.
+
+Using list() and string module
+One of the simplest and most efficient methods to initialize a list with alphabets is by using the string module which contains constants like ascii_lowercase and ascii_uppercase.
